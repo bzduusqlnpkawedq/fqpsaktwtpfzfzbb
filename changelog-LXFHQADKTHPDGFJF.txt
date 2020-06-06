@@ -1,0 +1,13 @@
+kebab.cc
+- Probably undetected (?)
+- Trigger Delay changed to 2S (150sec's --> 2sec's)
+
+
+will need it:
+FovChanger
+SkyBox Changer
+
+
+For font change:
+render.cpp
+Ctrl+F --> Imgui::GetIO | g_pDefaultFont | g_pSecondFont | g_pFlagsFont
